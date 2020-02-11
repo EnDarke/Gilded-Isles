@@ -13,8 +13,9 @@ Players will be able to move across several unique tropical maps with an innovat
 ### Wing Suits
 When players jump from a high enough location and fall for a certain amount of time, they will be able to trigger their wing suit and glide across the map.
 ### Vehicles
-- Trucks with turrets
+- Jeeps with turrets
 - Jetskis
+* All vehicles will have the ability for passengers to "lean out/up" and shoot (think PUBG)
 ### Grappling
 Players can use their wrist-mounted grapple to achieve elevation on the various high points of each map.
 ### Ziplines
